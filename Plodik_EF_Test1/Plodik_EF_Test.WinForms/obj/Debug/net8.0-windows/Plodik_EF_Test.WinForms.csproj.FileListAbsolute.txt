@@ -1,0 +1,16 @@
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.csproj.AssemblyReference.cache
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.FireEditForm.resources
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.FiresGridForm.resources
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.csproj.GenerateResource.cache
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.AssemblyInfoInputs.cache
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.AssemblyInfo.cs
+C:\Plodik_EF_Test\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.csproj.CoreCompileInputs.cache
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.csproj.AssemblyReference.cache
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.FireEditForm.resources
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.FiresGridForm.resources
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.csproj.GenerateResource.cache
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.AssemblyInfoInputs.cache
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.AssemblyInfo.cs
+X:\Plodik_EF_Test1\Plodik_EF_Test.WinForms\obj\Debug\net8.0-windows\Plodik_EF_Test.WinForms.csproj.CoreCompileInputs.cache

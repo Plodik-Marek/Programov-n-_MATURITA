@@ -1,0 +1,10 @@
+C:\Plodik_EF_Test\Fires.Core\obj\Debug\net8.0\Fires.Core.csproj.AssemblyReference.cache
+C:\Plodik_EF_Test\Fires.Core\obj\Debug\net8.0\Fires.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plodik_EF_Test\Fires.Core\obj\Debug\net8.0\Fires.Core.AssemblyInfoInputs.cache
+C:\Plodik_EF_Test\Fires.Core\obj\Debug\net8.0\Fires.Core.AssemblyInfo.cs
+C:\Plodik_EF_Test\Fires.Core\obj\Debug\net8.0\Fires.Core.csproj.CoreCompileInputs.cache
+X:\Plodik_EF_Test1\Fires.Core\obj\Debug\net8.0\Fires.Core.csproj.AssemblyReference.cache
+X:\Plodik_EF_Test1\Fires.Core\obj\Debug\net8.0\Fires.Core.GeneratedMSBuildEditorConfig.editorconfig
+X:\Plodik_EF_Test1\Fires.Core\obj\Debug\net8.0\Fires.Core.AssemblyInfoInputs.cache
+X:\Plodik_EF_Test1\Fires.Core\obj\Debug\net8.0\Fires.Core.AssemblyInfo.cs
+X:\Plodik_EF_Test1\Fires.Core\obj\Debug\net8.0\Fires.Core.csproj.CoreCompileInputs.cache

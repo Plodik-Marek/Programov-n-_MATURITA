@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\PRGA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A2B2E6-00BB-4C04-AEBB-76302C3B9F34}|PRGA\\PRGA.csproj|x:\\prga\\prga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A2B2E6-00BB-4C04-AEBB-76302C3B9F34}|PRGA\\PRGA.csproj|solutionrelative:prga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A2B2E6-00BB-4C04-AEBB-76302C3B9F34}|PRGA\\PRGA.csproj|x:\\prga\\prga\\eater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A2B2E6-00BB-4C04-AEBB-76302C3B9F34}|PRGA\\PRGA.csproj|solutionrelative:prga\\eater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A2B2E6-00BB-4C04-AEBB-76302C3B9F34}|PRGA\\PRGA.csproj|X:\\PRGA\\prga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32A2B2E6-00BB-4C04-AEBB-76302C3B9F34}|PRGA\\PRGA.csproj|solutionrelative:prga\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 400,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eater.cs",
+              "DocumentMoniker": "X:\\PRGA\\PRGA\\Eater.cs",
+              "RelativeDocumentMoniker": "PRGA\\Eater.cs",
+              "ToolTip": "X:\\PRGA\\PRGA\\Eater.cs",
+              "RelativeToolTip": "PRGA\\Eater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:56:38.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "X:\\PRGA\\PRGA\\Form1.cs",
+              "RelativeDocumentMoniker": "PRGA\\Form1.cs",
+              "ToolTip": "X:\\PRGA\\PRGA\\Form1.cs",
+              "RelativeToolTip": "PRGA\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:56:38.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "X:\\PRGA\\PRGA\\Form1.cs",
+              "RelativeDocumentMoniker": "PRGA\\Form1.cs",
+              "ToolTip": "X:\\PRGA\\PRGA\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "PRGA\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:56:39.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
