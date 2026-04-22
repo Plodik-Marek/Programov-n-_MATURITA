@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Procviceni_CRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63fe112794aec24c474a1bfcd2bf5a67bb299947")]
 [assembly: System.Reflection.AssemblyProductAttribute("Procviceni_CRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Procviceni_CRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

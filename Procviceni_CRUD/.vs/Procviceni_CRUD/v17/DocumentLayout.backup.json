@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\dbcontext\\reservationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\dbcontext\\reservationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\procviceni_crud\\reservationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationsmanageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationsmanageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationsmanageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\procviceni_crud\\reservationdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\reservationdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|solutionrelative:procviceni_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDE91669-10BE-4308-9B9E-56F09CA13D2D}|Procviceni_CRUD\\Procviceni_CRUD.csproj|e:\\school-----\\repo\\programov-n-_maturita\\procviceni_crud\\procviceni_crud\\reservationlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +66,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\Reservation.cs",
+              "RelativeDocumentMoniker": "Procviceni_CRUD\\Reservation.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\Reservation.cs",
+              "RelativeToolTip": "Procviceni_CRUD\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:14:42.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationDbContext.cs",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\DbContext\\ReservationDbContext.cs",
+              "RelativeDocumentMoniker": "Procviceni_CRUD\\DbContext\\ReservationDbContext.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\DbContext\\ReservationDbContext.cs",
+              "RelativeToolTip": "Procviceni_CRUD\\DbContext\\ReservationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T18:11:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationsManageForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.cs",
+              "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationsManageForm.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Procviceni_CRUD\\ReservationsManageForm.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:58:21.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationsManageForm.Designer.cs",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.Designer.cs",
+              "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationsManageForm.Designer.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.Designer.cs",
+              "RelativeToolTip": "Procviceni_CRUD\\ReservationsManageForm.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:55:00.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ReservationDetailForm.Designer.cs",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationDetailForm.Designer.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationDetailForm.Designer.cs",
@@ -66,88 +122,59 @@
               "RelativeToolTip": "Procviceni_CRUD\\ReservationDetailForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:14:05.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T18:14:05.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ReservationsManageForm.cs",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationsManageForm.cs",
               "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.cs",
               "RelativeToolTip": "Procviceni_CRUD\\ReservationsManageForm.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T18:10:31.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T18:10:31.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ReservationDetailForm.cs [N\u00E1vrh]",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationDetailForm.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationDetailForm.cs",
               "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationDetailForm.cs [N\u00E1vrh]",
               "RelativeToolTip": "Procviceni_CRUD\\ReservationDetailForm.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:45:48.009Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-04-16T15:45:48.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ReservationListForm.cs",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationListForm.cs",
-              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.cs*",
-              "RelativeToolTip": "Procviceni_CRUD\\ReservationListForm.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.cs",
+              "RelativeToolTip": "Procviceni_CRUD\\ReservationListForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T15:43:32.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ReservationsManageForm.cs [N\u00E1vrh]",
-              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.cs",
-              "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationsManageForm.cs",
-              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationsManageForm.cs [N\u00E1vrh]",
-              "RelativeToolTip": "Procviceni_CRUD\\ReservationsManageForm.cs [N\u00E1vrh]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:42:14.565Z",
-              "EditorCaption": " [N\u00E1vrh]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\Reservation.cs",
-              "RelativeDocumentMoniker": "Procviceni_CRUD\\Reservation.cs",
-              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\Reservation.cs",
-              "RelativeToolTip": "Procviceni_CRUD\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:35:09.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ReservationListForm.Designer.cs",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.Designer.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationListForm.Designer.cs",
-              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.Designer.cs*",
-              "RelativeToolTip": "Procviceni_CRUD\\ReservationListForm.Designer.cs*",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.Designer.cs",
+              "RelativeToolTip": "Procviceni_CRUD\\ReservationListForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:34:36.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T15:34:36.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\Program.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\Program.cs",
@@ -155,20 +182,18 @@
               "RelativeToolTip": "Procviceni_CRUD\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:34:24.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T15:34:24.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ReservationListForm.cs [N\u00E1vrh]",
               "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.cs",
               "RelativeDocumentMoniker": "Procviceni_CRUD\\ReservationListForm.cs",
-              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.cs [N\u00E1vrh]*",
-              "RelativeToolTip": "Procviceni_CRUD\\ReservationListForm.cs [N\u00E1vrh]*",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Procviceni_CRUD\\Procviceni_CRUD\\ReservationListForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Procviceni_CRUD\\ReservationListForm.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T15:34:13.128Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2026-04-16T15:34:13.128Z"
             }
           ]
         }

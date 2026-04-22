@@ -16,3 +16,4 @@ E:\school-----\REPO\Programov-n-_MATURITA\Procviceni_CRUD\Procviceni_CRUD\obj\De
 E:\school-----\REPO\Programov-n-_MATURITA\Procviceni_CRUD\Procviceni_CRUD\obj\Debug\net8.0-windows\Procviceni_CRUD.genruntimeconfig.cache
 E:\school-----\REPO\Programov-n-_MATURITA\Procviceni_CRUD\Procviceni_CRUD\obj\Debug\net8.0-windows\ref\Procviceni_CRUD.dll
 E:\school-----\REPO\Programov-n-_MATURITA\Procviceni_CRUD\Procviceni_CRUD\obj\Debug\net8.0-windows\Procviceni_CRUD.ReservationDetailForm.resources
+E:\school-----\REPO\Programov-n-_MATURITA\Procviceni_CRUD\Procviceni_CRUD\obj\Debug\net8.0-windows\Procviceni_CRUD.sourcelink.json

@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\forms\\graf.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\forms\\graf.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\forms\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\forms\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\entities\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\entities\\workers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|e:\\school-----\\repo\\programov-n-_maturita\\formy_s_parserem\\formy_s_parserem\\formy_s_parserem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1856F26-AA47-4E17-8CFC-EB8419971096}|Formy_s_parserem\\Formy_s_parserem.csproj|solutionrelative:formy_s_parserem\\formy_s_parserem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Program.cs",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Program.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Program.cs",
+              "RelativeToolTip": "Formy_s_parserem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T07:28:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Graf.resx",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\Graf.resx",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Forms\\Graf.resx",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\Graf.resx",
+              "RelativeToolTip": "Formy_s_parserem\\Forms\\Graf.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-19T07:27:19.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graf.cs [N\u00E1vrh]",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\Graf.cs",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Forms\\Graf.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\Graf.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Formy_s_parserem\\Forms\\Graf.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T07:27:15.359Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Forms\\MainForm.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\MainForm.cs*",
+              "RelativeToolTip": "Formy_s_parserem\\Forms\\MainForm.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T07:25:35.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workers.cs",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Entities\\Workers.cs",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Entities\\Workers.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Entities\\Workers.cs",
+              "RelativeToolTip": "Formy_s_parserem\\Entities\\Workers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T07:20:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formy_s_parserem",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Formy_s_parserem.csproj",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Formy_s_parserem.csproj",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Formy_s_parserem.csproj",
+              "RelativeToolTip": "Formy_s_parserem\\Formy_s_parserem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T07:16:29.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Formy_s_parserem\\Forms\\MainForm.cs",
+              "ToolTip": "E:\\school-----\\REPO\\Programov-n-_MATURITA\\Formy_s_parserem\\Formy_s_parserem\\Forms\\MainForm.cs [N\u00E1vrh]*",
+              "RelativeToolTip": "Formy_s_parserem\\Forms\\MainForm.cs [N\u00E1vrh]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T07:17:59.538Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

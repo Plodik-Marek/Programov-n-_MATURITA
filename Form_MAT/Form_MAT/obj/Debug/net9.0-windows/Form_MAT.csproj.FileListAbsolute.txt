@@ -1,0 +1,10 @@
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.csproj.AssemblyReference.cache
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.AddForm.resources
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.EditForm.resources
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.FormProcvicovanni.resources
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.csproj.GenerateResource.cache
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.GeneratedMSBuildEditorConfig.editorconfig
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.AssemblyInfoInputs.cache
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.AssemblyInfo.cs
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.csproj.CoreCompileInputs.cache
+E:\school-----\REPO\Programov-n-_MATURITA\Form_MAT\Form_MAT\obj\Debug\net9.0-windows\Form_MAT.sourcelink.json

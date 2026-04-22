@@ -13,18 +13,20 @@ namespace Procviceni_CRUD
 {
     public partial class ReservationsManageForm : Form
     {
-        public string Mode { get; set; }
-         
+
+
         public ReservationsManageForm()
         {
             InitializeComponent();
         }
 
-     
-
-        private void button1_Click(object sender, EventArgs e)
+        private void button_Save_Click(object sender, EventArgs e)
         {
-            Reservation reservation = new Reservation();
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
     }

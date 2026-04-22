@@ -12,7 +12,7 @@ namespace Procviceni_CRUD
 {
     public partial class ReservationListForm : Form
     {
-        public BindingList<Reservation> Data {  get; set; }
+        public BindingList<Reservation> ReservationData {  get; set; }
        
         public ReservationListForm()
         {
@@ -21,16 +21,30 @@ namespace Procviceni_CRUD
 
         private void button_Add_Click(object sender, EventArgs e)
         {
+
+
             ReservationsManageForm form = new ReservationsManageForm();
-            form.Mode = "Add";
-            form.Show();
+            DialogResult saveResult = form.ShowDialog();
+           
+            if (saveResult== DialogResult.OK)
+            {
+
+                Reservation newReservation = form.ReservationManageForm
+
+                    Dbcontext.ReservationData.Add(newReservation);
+                    Dbcontext.SaveChanges();
+
+                dataGridView_Reservations.Refresh();
+
+            }
+           
 
         }
 
         private void button_Edit_Click(object sender, EventArgs e)
         {
             ReservationsManageForm form = new ReservationsManageForm();
-            form.Mode = "Edit";
+            
             form.Show();
         }
 
@@ -42,8 +56,12 @@ namespace Procviceni_CRUD
 
         private void ReservationListForm_Load(object sender, EventArgs e)
         {
-            Data = new BindingList<Reservation>();  
-            dataGridView_Reservations.DataSource = Data;
+           
+            List<Reservation> list = new List<Reservation>();
+
+            ReservationData = new(list);
+
+            dataGridView_Reservations.DataSource = list; 
 
             
         }
