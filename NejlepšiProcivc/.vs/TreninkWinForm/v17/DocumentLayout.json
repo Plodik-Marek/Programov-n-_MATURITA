@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TreninkWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|C:\\Users\\user\\Desktop\\TreninkWinForm\\treninkwinform\\forms\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\graphform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\maintestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\maintestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|C:\\Users\\user\\Desktop\\TreninkWinForm\\treninkwinform\\forms\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\editform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|C:\\Users\\user\\Desktop\\TreninkWinForm\\treninkwinform\\forms\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\addform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\entites\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\entites\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|C:\\Users\\user\\Desktop\\TreninkWinForm\\treninkwinform\\forms\\clockgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\clockgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\entites\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\entites\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\addform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\addform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\clockgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\clockgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|C:\\Users\\user\\Desktop\\TreninkWinForm\\treninkwinform\\forms\\maintestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\maintestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|C:\\Users\\user\\Desktop\\TreninkWinForm\\treninkwinform\\forms\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\secondform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\maintestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\maintestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\forms\\secondform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\forms\\secondform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|c:\\users\\user\\desktop\\treninkwinform\\treninkwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{811832F9-D6FF-42FD-99EC-0182F48C7742}|TreninkWinForm\\TreninkWinForm.csproj|solutionrelative:treninkwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClockGraph.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\ClockGraph.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\ClockGraph.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\ClockGraph.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\ClockGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:21:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClockGraph.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\ClockGraph.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\ClockGraph.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\ClockGraph.cs [N\u00E1vrh]",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\ClockGraph.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T09:20:54.578Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\GraphForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\GraphForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\GraphForm.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\GraphForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T08:32:36.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\GraphForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\GraphForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\GraphForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\GraphForm.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T08:30:42.405Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SecondForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\SecondForm.Designer.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\SecondForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\SecondForm.Designer.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\SecondForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:59:33.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\EditForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\EditForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\EditForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\EditForm.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:30:48.707Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\AddForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\AddForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\AddForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\AddForm.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:32:29.17Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Entites\\Result.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Entites\\Result.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Entites\\Result.cs",
+              "RelativeToolTip": "TreninkWinForm\\Entites\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:20:01.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainTestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\MainTestForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\MainTestForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\MainTestForm.cs [Design]",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\MainTestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:25:31.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\AddForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\AddForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\AddForm.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\AddForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:32:10.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\SecondForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\SecondForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\SecondForm.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\SecondForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T19:48:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainTestForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\MainTestForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\MainTestForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\MainTestForm.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\MainTestForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:23:27.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\AddForm.Designer.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\AddForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\AddForm.Designer.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\AddForm.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAD4vzYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:32:19.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SecondForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\SecondForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\SecondForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\SecondForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\SecondForm.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:58:42.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\EditForm.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\EditForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\EditForm.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\EditForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T19:07:49.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Entites\\Club.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Entites\\Club.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Entites\\Club.cs",
+              "RelativeToolTip": "TreninkWinForm\\Entites\\Club.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:19:17.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TreninkWinForm\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:18:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainTestForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\MainTestForm.Designer.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Forms\\MainTestForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Forms\\MainTestForm.Designer.cs",
+              "RelativeToolTip": "TreninkWinForm\\Forms\\MainTestForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:20:05.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Program.cs",
+              "RelativeDocumentMoniker": "TreninkWinForm\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TreninkWinForm\\TreninkWinForm\\Program.cs",
+              "RelativeToolTip": "TreninkWinForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:13:19.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
